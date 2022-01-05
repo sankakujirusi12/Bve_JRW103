@@ -28,7 +28,7 @@ bve-plugin-bridge　まじかんと様
 6両:△12△\Train\JRW_103\M7+Mx+Mx.txt  
 
 # ダウンロード  
-[こちらより'Source Code(zip)'をダウンロードしてください](https://github.com/sankakujirusi12/Bve_Oka_Hiro_SekiTrainpack/releases/tag/1.1.2)
+[こちらより'Source Code(zip)'をダウンロードしてください](https://github.com/sankakujirusi12/Bve_JRW103/releases/tag/1.0.0)
 
 # 次回更新  
 K603編成クハ103-1追加予定  
