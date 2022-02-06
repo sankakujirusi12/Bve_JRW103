@@ -8,7 +8,7 @@
 
 ..\..\..\..\..\GeneralAtsPlugin\Rock_On\EB.dll
 
-..\..\..\..\..\GeneralAtsPlugin\Rock_On\ATS_West\swp2.dll
+..\..\..\..\..\GeneralAtsPlugin\Rock_On\ATS_S.dll
 
 ..\..\..\..\..\GeneralAtsPlugin\Rock_On\B1.dll
 
