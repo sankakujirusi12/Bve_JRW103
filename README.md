@@ -2,9 +2,11 @@
 Bve5.8/6.0用　近カコ・近ヒネ・近モリ・近ナラ103系車両データです。車両指定は連絡なしで自由に行えます。  
 
 # ファイル構成  
+```
 Scenarios - △12△  
 　　　　 - Rock_On  
 　　　　 - GeneralAtsPlugin  
+```
 となるよう配置してください。  
 
 # 導入が必要なもの
@@ -23,15 +25,24 @@ bve-plugin-bridge　まじかんと様
 ★★103系  
 ☆3500番台  
 カコM7編成  
-2両:△12△\Train\JRW_103\M7.txt  
-4両:△12△\Train\JRW_103\M7+Mx.txt  
-6両:△12△\Train\JRW_103\M7+Mx+Mx.txt  
-
+2両:
+```
+△12△\Train\JRW_103\M7.txt
+```  
+4両:
+```
+△12△\Train\JRW_103\M7+Mx.txt  
+```
+6両:
+```
+△12△\Train\JRW_103\M7+Mx+Mx.txt  
+```
 # ダウンロード  
-[こちらより'Source Code(zip)'をダウンロードしてください](https://github.com/sankakujirusi12/Bve_JRW103/releases/tag/1.0.0)
+[こちらより`Source Code(zip)`をダウンロードしてください](https://github.com/sankakujirusi12/Bve_JRW103/releases/tag/1.0.1)
 
 # 次回更新  
 K603編成クハ103-1追加予定  
 
 # 更新履歴  
-2021/01/05 カコM7編成を公開
+2022/01/05 カコM7編成を公開
+2022/02/05 カコM7編成のバグ修正
