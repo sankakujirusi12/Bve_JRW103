@@ -50,19 +50,19 @@ DaytimeImage=Chokutu.png
 Layer=7
 
 [Pilotlamp]
-Subject=ats41
+Subject=ats212
 Location=1707,3082
 DaytimeImage=Unit1.png
 Layer=7
 
 [Pilotlamp]
-Subject=ats42
+Subject=ats212
 Location=1788,3083
 DaytimeImage=Unit2.png
 Layer=7
 
 [Pilotlamp]
-Subject=ats43
+Subject=ats212
 Location=1877,3080
 DaytimeImage=Unit3.png
 Layer=7
