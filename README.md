@@ -49,12 +49,13 @@ bve-plugin-bridge　まじかんと様
 △12△\Train\JRW_103\M7+Mx+Mx.txt  
 ```
 # ダウンロード  
-[こちらより`Source Code(zip)`をダウンロードしてください](https://github.com/sankakujirusi12/Bve_JRW103/releases/tag/1.2.0)
+[こちらより`Source Code(zip)`をダウンロードしてください](https://github.com/sankakujirusi12/Bve_JRW103/releases/tag/1.2.1)
 
 # 次回更新  
-R1編成追加予定  
+NS409編成追加予定  
 
 # 更新履歴  
-2022/01/05 カコM7編成を公開
-2022/02/05 カコM7編成のバグ修正
-2022/02/06 モリ1番編成・K603編成を公開
+2022/01/05 カコM7編成を公開  
+2022/02/05 カコM7編成のバグ修正  
+2022/02/06 モリ1番編成・K603編成を公開  
+2022/05/20 全編成のバグ修正  
